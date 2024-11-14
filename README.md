@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I have recently completed a course in data science, looking to learn more in the field and hopefully merge everything with my chemistry knowledge. 
+I have recently completed a course in data science, looking to learn more in the field and hopefully merge everything with my chemistry experience and knowledge. 
 
 
 ## 🌐 Socials:
